@@ -11,7 +11,7 @@ Because these projects were migrated via command line (using `git push --mirror`
 ### ✅ What is preserved:
 * The source code
 * The complete commit history
-* All branches (e.g., `main`, `dev`, and various feature branches)
+* All working branches (e.g., `main`, `dev`, and various feature branches)
 * Git tags (e.g., `1.0`, `0.5-alpha`)
 
 ### ❌ What is missing:
